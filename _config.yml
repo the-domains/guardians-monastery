@@ -6,10 +6,10 @@ color:
     - '#687880'
     - '#C03028'
     - '#000000'
-  brandStrength: 0.70777
-  lightness: 0
-  rhythmicContrast: 0.615709
-  saturation: 0.455236
+  brandStrength: 0.338682
+  lightness: 0.050676
+  rhythmicContrast: 0.849662
+  saturation: 0.724662
 cta: {}
 layout_spectrum: 0.069257
 name: Guardians Monastery
