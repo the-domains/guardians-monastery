@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C8D0D8'
+    - '#800808'
+    - '#687880'
+    - '#C03028'
+    - '#000000'
+  brandStrength: 1
+  lightness: 0
+  rhythmicContrast: 0.491554
+  saturation: 0.009291
+cta: {}
+layout_spectrum: 0.069257
+name: Guardians Monastery
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.34375
